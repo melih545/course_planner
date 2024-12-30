@@ -348,9 +348,19 @@ def main():
             st.session_state.remaining_data = process_uploaded_files(
                 uploaded_file, necessary
             )
+        completed_courses_options = sorted(
+            [
+                f"{code} - {name}"
+                for code, name in zip(
+                    necessary["Course Code"], necessary["Course Name"]
+                )
+            ],
+            key=lambda x: x.split(" - ")[0],
+        )
+        st.write(necessary.head())
         completed_courses = st.multiselect(
             "Select completed courses",
-            options=list(necessary["Course Code"]),
+            options=list(completed_courses_options),
         )
         col1, col2 = st.columns(2)
 
