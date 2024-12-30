@@ -357,7 +357,6 @@ def main():
             ],
             key=lambda x: x.split(" - ")[0],
         )
-        st.write(necessary.head())
         completed_courses = st.multiselect(
             "Select completed courses",
             options=list(completed_courses_options),
