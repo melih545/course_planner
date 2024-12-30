@@ -1,0 +1,276 @@
+Semester,Course Code,Course Name,Credits,Prerequisites,Type
+1. Yarıyıl,END 113E,Endüstri Müh. Giriş ve Etik,2,Yok,Main
+1. Yarıyıl,FIZ 101E,Fizik I,3,Yok,Main
+1. Yarıyıl,FIZ 101EL,Physics I Laboratory,1,Yok,Main
+1. Yarıyıl,BIL 100E,Intr.to Prog.Language(PYTHON),2,Yok,Main
+1. Yarıyıl,MAT 103E,Matematik I,4,Yok,Main
+1. Yarıyıl,TUR 121,Türk Dili I,0,Yok,Main
+1. Yarıyıl,ING 100,EAP Through Global Goals,3,Önşartı için tıklayınız.,Main
+1. Yarıyıl,ATA 121,Atatürk İlk & İnkılap Trh I,0,Yok,Main
+2. Yarıyıl,FIZ 102E,Fizik II (Elektrik Fiziği),3,Yok,Main
+2. Yarıyıl,FIZ 102EL,Physics II Laboratory,1,Yok,Main
+2. Yarıyıl,KIM 101E,General Chemistry I,3,Yok,Main
+2. Yarıyıl,KIM 101EL,General Chemistry I Lab,1,Yok,Main
+2. Yarıyıl,END 112E,Intr. to Manufacturing Systems,3,Yok,Main
+2. Yarıyıl,MAT 104E,Matematik II,4,MAT 103 MIN DD veya MAT 103E MIN DD veya MAT 101 MIN DD veya MAT 101E MIN DD veya MAT 112 MIN DD veya MAT 112E MIN DD veya MAT 187 MIN DD veya MAT 187E MIN DD veya MAT 185 MIN DD veya MAT 185E MIN DD,Main
+2. Yarıyıl,DAN 102,Girişimcilik & Kariyer Danış.,0,Yok,Main
+2. Yarıyıl,ING 112A,Basics of Academic Writing,2,Önşartı için tıklayınız.,Main
+3. Yarıyıl,END 213E,Data Manag.in Industrial Syst.,3,Yok,Main
+3. Yarıyıl,END 210E,End. Müh.için Doğrusal Cebir,3,Yok,Main
+3. Yarıyıl,EKO 201E,Ekonomi,3,Yok,Main
+3. Yarıyıl,END 215E,Sistem Düşüncesi ve Analizi,2,Yok,Main
+3. Yarıyıl,END 252E,Theory of Probability,3,MAT 103 MIN DD veya MAT 103E MIN DD veya MAT 101 MIN DD veya MAT 101E MIN DD,Main
+3. Yarıyıl,ING 201A,Essentials of Res.Paper Writ.,2,Önşartı için tıklayınız.,Main
+4. Yarıyıl,MEK 205,Mühendislik Mekaniği,3,MAT 102 MIN DD veya MAT 102E MIN DD veya MAT 104 MIN DD veya MAT 104E MIN DD,Main
+4. Yarıyıl,END 232E,İşbilim,3,Yok,Main
+4. Yarıyıl,END 311E,İstatistik,3,END 252 MIN DD veya END 252E MIN DD veya VBA 252E MIN DD,Main
+4. Yarıyıl,END 331E,Yöneylem Araştırması I,3,MAT 261 MIN DD veya MAT 261E MIN DD veya MAT 121 MIN DD veya MAT 121E MIN DD veya MAT 210 MIN DD veya MAT 210E MIN DD veya END 210 MIN DD veya END 210E MIN DD,Main
+4. Yarıyıl,END 201E,Industrial Eng.Appl. in Python,2,BIL 110E MIN DD veya BIL 100E MIN DD,Main
+4. Yarıyıl,HUK 201,İş Hukuku,3,Yok,Main
+5. Yarıyıl,END 341E,İş Etüdü ve Dizaynı,3,END 232 MIN DD veya END 232E MIN DD,Main
+5. Yarıyıl,END 421E,Üretim Planlama ve Kontrol,3,END 331 MIN DD veya END 331E MIN DD,Main
+5. Yarıyıl,END 332E,Operations Research II,3,END 331 MIN DD veya END 331E MIN DD,Main
+5. Yarıyıl,END 305E,Data Analytics for Business,3,(END 311 MIN DD veya END 311E MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD veya VBA 311E MIN DD) ve (VBA 113E MIN DD veya BIL 100E MIN DD),Main
+6. Yarıyıl,END 312E,Mühendislik Ekonomisi,3,Yok,Main
+6. Yarıyıl,END 322E,Sistem Simülasyonu,3,(END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD) ve (END 311 MIN DD veya END 311E MIN DD),Main
+6. Yarıyıl,END 308E,Kalite Mühendisliği,2,END 311 MIN DD veya END 311E MIN DD,Main
+7. Yarıyıl,END 4901E,Endüstri Müh. Tasarımı I,4,(END 421 MIN DD veya END 421E MIN DD veya END 322 MIN DD veya END 322E MIN DD) ve (END 332 MIN DD veya END 332E MIN DD veya END 305 MIN DD veya END 305E MIN DD) ve (FIZ 101 MIN DD veya FIZ 101E MIN DD) ve FIZ 101EL MIN DD ve (MAT 103 MIN DD veya MAT 103E MIN DD) ve (FIZ 102 MIN DD veya FIZ 102E MIN DD) ve FIZ 102EL MIN DD ve (KIM 101 MIN DD veya KIM 101E MIN DD) ve KIM 101EL MIN DD ve (MAT 104 MIN DD veya MAT 104E MIN DD) ve (END 210 MIN DD veya END 210E MIN DD veya MAT 210 MIN DD veya MAT 210E MIN DD),Main
+7. Yarıyıl,END 411E,Bütünleşik Üretim Sistemleri,2,END 112 MIN DD veya END 112E MIN DD,Main
+7. Yarıyıl,END 431E,Yönetim ve Organizasyon,3,Yok,Main
+7. Yarıyıl,END 449E,End. Müh. Uyg. Seminer Dersi,0,Yok,Main
+8. Yarıyıl,END 4902E,Endüstri Müh. Tasarımı II,4,END 4901 MIN BB veya END 4901E MIN BB,Main
+8. Yarıyıl,END 412E,İnsn Kynkları Yntmnin Temeller,3,END 431 MIN DD veya END 431E MIN DD,Main
+8. Yarıyıl,ATA 122,Atatürk İlk & İnkılap Trh II,0,Yok,Main
+8. Yarıyıl,TUR 122,Türk Dili II,0,Yok,Main
+5. Yarıyıl,END 319E,Cost Management,3,Yok,Elective Functional
+5. Yarıyıl,END 329E,Quality Management Tools&Tech.,3,Yok,Elective Functional
+5. Yarıyıl,END 344E,Behavioral Sciences,3,Yok,Elective Functional
+5. Yarıyıl,END 345E,Evolution of Management Thought,3,Yok,Elective Functional
+5. Yarıyıl,END 365E,People Analytics,3,END 311 MIN DD veya END 311E MIN DD,Elective Functional
+5. Yarıyıl,END 367E,Automation in Production Syst.,3,Yok,Elective Functional
+5. Yarıyıl,END 374E,Competition Management,3,Yok,Elective Functional
+5. Yarıyıl,END 381E,Tech.Design for IndusT. Eng.,3,Yok,Elective Functional
+5. Yarıyıl,END 423E,Investment Planning,3,END 312 MIN DD veya END 312E MIN DD,Elective Functional
+5. Yarıyıl,END 429E,Process Management,3,END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD,Elective Functional
+5. Yarıyıl,END 433E,Marketing Management,3,Yok,Elective Functional
+5. Yarıyıl,END 445E,Lean Production Systems,3,Yok,Elective Functional
+5. Yarıyıl,END 451E,Logistics Management,3,(END 331 MIN DD veya END 331E MIN DD) ve (END 252 MIN DD veya END 252E MIN DD),Elective Functional
+5. Yarıyıl,END 453E,Indus.4.0 & Digital Transform.,3,Yok,Elective Functional
+5. Yarıyıl,END 473E,Pricing and Revenue Management,3,(END 331 MIN DD veya END 331E MIN DD) ve (END 312 MIN DD veya END 312E MIN DD),Elective Functional
+5. Yarıyıl,END 475E,Feasibility Studies,3,END 312 MIN DD veya END 312E MIN DD,Elective Functional
+5. Yarıyıl,BLG 231E,Digital Circuits,3,Yok,Elective Analytic
+5. Yarıyıl,EHB 420E,Artificial Neural Networks,3,MAT 281 MIN DD veya MAT 281E MIN DD veya EEF 281 MIN DD veya EEF 281E MIN DD,Elective Analytic
+5. Yarıyıl,END 327E,Decision Theory,3,(END 252E MIN DD veya END 252 MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD veya VBA 252E MIN DD) ve (END 331 MIN DD veya END 331E MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD veya VBA 311E MIN DD),Elective Analytic
+5. Yarıyıl,END 357E,Management Information Systems,3,END 213E MIN DD ve (END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD),Elective Analytic
+5. Yarıyıl,END 369E,Game Theory,3,(END 252 MIN DD veya VBA 252E MIN DD) ve (END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD),Elective Analytic
+5. Yarıyıl,END 443E,Business Planning & Innovation,3,Yok,Elective Analytic
+5. Yarıyıl,END 447E,Network Models,3,END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD,Elective Analytic
+5. Yarıyıl,END 448E,Intr. to Stochastic Modell.,3,Yok,Elective Analytic
+5. Yarıyıl,END 457E,Heuristic Optimization,3,END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD,Elective Analytic
+5. Yarıyıl,END 471E,Marketing & CRM Analytics,3,END 311 MIN DD veya END 311E MIN DD veya VBA 311E MIN DD,Elective Analytic
+5. Yarıyıl,END 493E,Applied Statistics,3,END 311 MIN DD veya END 311E MIN DD veya VBA 311E MIN DD,Elective Analytic
+5. Yarıyıl,MAT 343E,Time Series Analysis,3,MAT 244 MIN DD veya MAT 244E MIN DD,Elective Analytic
+5. Yarıyıl,MAT 471E,Financial Mathematics,3,MAT 232 MIN DD veya MAT 232E MIN DD veya BIO 210E MIN DD veya BLG 210E MIN DD veya CEV 210 MIN DD veya CEV 210E MIN DD veya DEN 210E MIN DD veya EEE 210E MIN DD veya EEF 210 MIN DD veya EEF 210E MIN DD veya FIZ 210 MIN DD veya GEM 210E MIN DD veya GEO 220 MIN DD veya GEO 220E MIN DD veya INS 210 MIN DD veya INS 210E MIN DD veya KIM 271 MIN DD veya MAK 210E MIN DD veya MAT 201 MIN DD veya MAT 201E MIN DD veya MAT 210 MIN DD veya MAT 210E MIN DD,Elective Analytic
+6. Yarıyıl,END 314E,Service Systems,3,Yok,Elective Functional
+6. Yarıyıl,END 316E,Group Technology and Flexible Manufacturing Systems,3,Yok,Elective Functional
+6. Yarıyıl,END 364E,Work Psychology,3,Yok,Elective Functional
+6. Yarıyıl,END 374E,Competition Management,3,Yok,Elective Functional
+6. Yarıyıl,END 382E,Production Methods,3,END 112E MIN DD,Elective Functional
+6. Yarıyıl,END 414E,Maintenance Management,3,END 252 MIN DD veya END 252E MIN DD,Elective Functional
+6. Yarıyıl,END 426E,Enterprise Resources Planning,3,END 421 MIN DD veya END 421E MIN DD veya ISL 384 MIN DD veya ISL 384E MIN DD,Elective Functional
+6. Yarıyıl,END 432E,Facility Layout,3,Yok,Elective Functional
+6. Yarıyıl,END 434E,Intro.to Strategic Management,3,END 323 MIN DD veya END 431 MIN DD veya END 431E MIN DD,Elective Functional
+6. Yarıyıl,END 435E,Work Safety,3,Yok,Elective Functional
+6. Yarıyıl,END 452E,Purchasing Management,3,Yok,Elective Functional
+6. Yarıyıl,END 454E,Energy Markets & Optimization,3,END 331 MIN DD veya END 331E MIN DD veya ISL 323 MIN DD veya ISL 323E MIN DD,Elective Functional
+6. Yarıyıl,END 472E,Advanced Spreadsheet Modeling,3,Yok,Elective Functional
+6. Yarıyıl,END 486E,The New Era of Management,3,Yok,Elective Functional
+6. Yarıyıl,END 488E,ERP Processes and Installation,3,Yok,Elective Functional
+6. Yarıyıl,ISL 224E,Cost Accounting,3,Yok,Elective Functional
+6. Yarıyıl,ISL 452E,Financial Inst.&Portfolio Mng.,3,ISL 333E MIN DD veya ISL 333 MIN DD veya END 424 MIN DD veya END 424E MIN DD veya ECN 309E MIN DD,Elective Functional
+6. Yarıyıl,ISL 460E,E-Marketing,3,ISL 353E MIN DD veya ISL 353 MIN DD veya END 433 MIN DD veya END 433E MIN DD,Elective Functional
+6. Yarıyıl,KON 322E,Industrial Automated Systems,3,BLG 231 MIN DD veya BLG 231E MIN DD,Elective Functional
+6. Yarıyıl,KON 324E,Sensors&Transducers in Contr.,3,Yok,Elective Functional
+6. Yarıyıl,ALM 101,Almanca I,3,Yok,ITB
+6. Yarıyıl,ALM 102,Almanca II,3,Yok,ITB
+6. Yarıyıl,ALM 201,Almanca III,3,Yok,ITB
+6. Yarıyıl,ALM 202,Almanca IV,3,Yok,ITB
+6. Yarıyıl,ALM 301,Almanca V,3,Yok,ITB
+6. Yarıyıl,ALM 302,Almanca VI,3,Yok,ITB
+6. Yarıyıl,ALM 401,Almanca VII,3,Yok,ITB
+6. Yarıyıl,ARB 101,Arapça I,3,Yok,ITB
+6. Yarıyıl,ARB 102,Arapça II,3,Yok,ITB
+6. Yarıyıl,CIN 101,Çince I,3,Yok,ITB
+6. Yarıyıl,CIN 102,Çince II,3,Yok,ITB
+6. Yarıyıl,CIN 201,Çince III,3,Yok,ITB
+6. Yarıyıl,FRA 101,Fransızca I,3,Yok,ITB
+6. Yarıyıl,FRA 102,Fransızca II,3,Yok,ITB
+6. Yarıyıl,FRA 201,Fransızca III,3,Yok,ITB
+6. Yarıyıl,FRA 202,Fransızca IV,3,Yok,ITB
+6. Yarıyıl,FRA 301,Fransızca V,3,Yok,ITB
+6. Yarıyıl,FRA 302,Fransızca VI,3,Yok,ITB
+6. Yarıyıl,HUK 211,Sosyal Güvenlik Hukuku,3,Yok,ITB
+6. Yarıyıl,HUK 212,Sendika.&Toplu İş Sözl.Hukuku,3,Yok,ITB
+6. Yarıyıl,HUK 213,İş Sağlığı ve Güvenliği Hukuku,3,Yok,ITB
+6. Yarıyıl,HUK 214,Teknolojik Yeniliklerin Korun.,3,Yok,ITB
+6. Yarıyıl,HUK 215,Sözleşmeler Hukuku,3,Yok,ITB
+6. Yarıyıl,HUK 216,Telekomünikasyon Hukuku,3,Yok,ITB
+6. Yarıyıl,HUK 217,AR-GE Hukuku,3,Yok,ITB
+6. Yarıyıl,HUK 218,Ticaret Hukuku,3,Yok,ITB
+6. Yarıyıl,ING 103A,Creative Writing,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103AC,Urban Ecology,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103AD,Advanced English for Engineers,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103B,Business English,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103C,Great Moments in Science,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103CO,Profess.Communic.for Engineers,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103G,Business Communications,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103H,Public Presentations,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103I,Short Stories,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103L,Mythology,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103N,Film Studies,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103O,Psychology,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103P,Poetry,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103ES,Intercultural Citizenship,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ING 103SC,Science Communication,3,Önşartı için tıklayınız.,ITB
+6. Yarıyıl,ISL 478E,Entrepreneurship,3,Yok,ITB
+6. Yarıyıl,ISP 101,İspanyolca I,3,Yok,ITB
+6. Yarıyıl,ISP 102,İspanyolca II,3,Yok,ITB
+6. Yarıyıl,ISP 201,İspanyolca III,3,Yok,ITB
+6. Yarıyıl,ISP 202,İspanyolca IV,3,Yok,ITB
+6. Yarıyıl,ISP 301,İspanyolca V,3,Yok,ITB
+6. Yarıyıl,ISP 302,İspanyolca VI,3,Yok,ITB
+6. Yarıyıl,ITA 101,İtalyanca I,3,Yok,ITB
+6. Yarıyıl,ITA 102,İtalyanca II,3,Yok,ITB
+6. Yarıyıl,ITA 201,İtalyanca III,3,Yok,ITB
+6. Yarıyıl,ITA 202,İtalyanca IV,3,Yok,ITB
+6. Yarıyıl,ITA 301,İtalyanca V,3,Yok,ITB
+6. Yarıyıl,ITB 020E,Formations of Modernity,3,Yok,ITB
+6. Yarıyıl,ITB 037E,"Knowledge, Language & Logic",3,Yok,ITB
+6. Yarıyıl,ITB 087E,Media and Society,3,Yok,ITB
+6. Yarıyıl,ITB 094E,International.Rel.and Globali.,3,Yok,ITB
+6. Yarıyıl,ITB 095E,"Technology, Policy and Law",3,Yok,ITB
+6. Yarıyıl,ITB 143E,Durrel and Said : Orientalism Practiced and Theorized,3,Yok,ITB
+6. Yarıyıl,ITB 151E,Human Resources and Management,3,Yok,ITB
+6. Yarıyıl,ITB 171E,"Science,Technology and Society",3,Yok,ITB
+6. Yarıyıl,ITB 179E,"Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen",3,Yok,ITB
+6. Yarıyıl,ITB 201E,Introduction to Humanities & Social Sciences,3,Yok,ITB
+6. Yarıyıl,ITB 202E,World History,3,Yok,ITB
+6. Yarıyıl,ITB 203E,Sociology,3,Yok,ITB
+6. Yarıyıl,ITB 204E,Political Science,3,Yok,ITB
+6. Yarıyıl,ITB 205E,Philosophy,3,Yok,ITB
+6. Yarıyıl,ITB 206E,Issues in World Politics,3,Yok,ITB
+6. Yarıyıl,ITB 207E,Ottoman History,3,Yok,ITB
+6. Yarıyıl,ITB 208E,Formations of Modern Turkey,3,Yok,ITB
+6. Yarıyıl,ITB 209E,Turkey in World Affairs,3,Yok,ITB
+6. Yarıyıl,ITB 213E,Toplics in Literature and Society,3,Yok,ITB
+6. Yarıyıl,ITB 214E,The Modern Middle East,3,Yok,ITB
+6. Yarıyıl,ITB 215E,Topics in Hist.and Society,3,Yok,ITB
+6. Yarıyıl,ITB 216E,Economy and Society,3,Yok,ITB
+6. Yarıyıl,ITB 217E,Engineering Ethics,3,Yok,ITB
+6. Yarıyıl,ITB 218E,History of Science&Technology,3,Yok,ITB
+6. Yarıyıl,ITB 219E,Ethics,3,Yok,ITB
+6. Yarıyıl,ITB 220E,Psychology,3,Yok,ITB
+6. Yarıyıl,ITB 221E,Anatolian Archaeology,3,Yok,ITB
+6. Yarıyıl,ITB 222E,City and Society,3,Yok,ITB
+6. Yarıyıl,ITB 224E,Environment and Society,3,Yok,ITB
+6. Yarıyıl,ITB 227E,Political Theory,3,Yok,ITB
+6. Yarıyıl,ITB 228E,Gender Studies,3,Yok,ITB
+6. Yarıyıl,ITB 230E,Disaster Awareness,3,Yok,ITB
+6. Yarıyıl,ITB 231E,Volunteering Studies,3,Yok,ITB
+6. Yarıyıl,ITB 233E,Anthropology,3,Yok,ITB
+6. Yarıyıl,ITB 234E,The Rise of Civilizations,3,Yok,ITB
+6. Yarıyıl,JPN 101,Japonca I,3,Yok,ITB
+6. Yarıyıl,JPN 102,Japonca II,3,Yok,ITB
+6. Yarıyıl,JPN 201,Japonca III,3,Yok,ITB
+6. Yarıyıl,JPN 202,Japonca IV,3,Yok,ITB
+6. Yarıyıl,RUS 101,Rusça I,3,Yok,ITB
+6. Yarıyıl,RUS 102,Rusça II,3,Yok,ITB
+6. Yarıyıl,RUS 201,Rusça III,3,Yok,ITB
+6. Yarıyıl,SNT 103E,Drawing,3,Yok,ITB
+6. Yarıyıl,SNT 104E,Mythology and Art,3,Yok,ITB
+6. Yarıyıl,SNT 105E,Film Art,3,Yok,ITB
+6. Yarıyıl,SNT 106E,Traditional Turkish Art&Crafts,3,Yok,ITB
+6. Yarıyıl,SNT 107E,Ancient Civilizat.in Anatolia,3,Yok,ITB
+6. Yarıyıl,SNT 113E,Art and Interpretation,3,Yok,ITB
+6. Yarıyıl,SNT 114E,Contemporary Art,3,Yok,ITB
+6. Yarıyıl,SNT 116E,The Art of Communication,3,Yok,ITB
+6. Yarıyıl,SNT 117E,Jazz Appreciation,3,Yok,ITB
+6. Yarıyıl,SNT 121E,World Music Cultures,3,Yok,ITB
+6. Yarıyıl,SNT 123E,Film Production,3,Yok,ITB
+6. Yarıyıl,SNT 211E,"Istanbul:Hist.,Art and Society",3,Yok,ITB
+6. Yarıyıl,SNT 212E,"Art,Culture and Society",3,Yok,ITB
+6. Yarıyıl,SNT 226E,Philosophy of Art,3,Yok,ITB
+6. Yarıyıl,SNT 227E,Sound and Society,3,Yok,ITB
+6. Yarıyıl,END 317E,Database Manag. & Big Data,3,BIL 102 MIN DD veya BIL 102CE MIN DD veya BIL 102E MIN DD veya BIL 102FE MIN DD veya BIL 104E MIN DD veya BIL 105E MIN DD veya BIL 106E MIN DD veya BIL 100E MIN DD veya BIL 110E MIN DD veya BIL 110 MIN DD veya MAT 115E MIN DD veya VBA 113E MIN DD,Elective Analytic
+6. Yarıyıl,END 318E,System Dynamics,3,END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD,Elective Analytic
+6. Yarıyıl,END 336E,Product Development,3,Yok,Elective Analytic
+6. Yarıyıl,END 339E,Project Management,3,Yok,Elective Analytic
+6. Yarıyıl,END 424E,Financial Management,3,ISL 224 MIN DD veya ISL 224E MIN DD veya END 222 MIN DD veya END 222E MIN DD,Elective Analytic
+6. Yarıyıl,END 446E,Statistical Experimental Design,3,(END 252E MIN DD veya END 252 MIN DD veya VBA 252E MIN DD) ve (END 311 MIN DD veya END 311E MIN DD veya VBA 311E MIN DD),Elective Analytic
+6. Yarıyıl,END 458E,Nonlinear Optimization,3,END 311 MIN DD veya END 311E MIN DD veya ISL 323 MIN DD veya ISL 323E MIN DD veya VBA 211E MIN DD,Elective Analytic
+6. Yarıyıl,END 474E,Supply Chain Analytics,3,END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD,Elective Analytic
+6. Yarıyıl,END 476E,Machine Learning for Ind. Sys.,3,(END 311 MIN DD veya END 311E MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD) ve (MAT 210 MIN DD veya MAT 210E MIN DD veya END 210 MIN DD veya END 210E MIN DD veya ECN 207E MIN DD),Elective Analytic
+6. Yarıyıl,END 478E,Applied Optimization Models,3,Yok,Elective Analytic
+6. Yarıyıl,END 480E,Reliability Engineering,3,END 311 MIN DD veya END 311E MIN DD,Elective Analytic
+6. Yarıyıl,END 482E,Supply Chain Management,3,END 421 MIN DD veya END 421E MIN DD,Elective Analytic
+7. Yarıyıl,END 319E,Cost Management,3,Yok,Elective Functional
+7. Yarıyıl,END 329E,Quality Management Tools&Tech.,3,Yok,Elective Functional
+7. Yarıyıl,END 344E,Behavioral Sciences,3,Yok,Elective Functional
+7. Yarıyıl,END 345E,Evolution of Management Thought,3,Yok,Elective Functional
+7. Yarıyıl,END 365E,People Analytics,3,END 311 MIN DD veya END 311E MIN DD,Elective Functional
+7. Yarıyıl,END 367E,Automation in Production Syst.,3,Yok,Elective Functional
+7. Yarıyıl,END 374E,Competition Management,3,Yok,Elective Functional
+7. Yarıyıl,END 381E,Tech.Design for IndusT. Eng.,3,Yok,Elective Functional
+7. Yarıyıl,END 423E,Investment Planning,3,END 312 MIN DD veya END 312E MIN DD,Elective Functional
+7. Yarıyıl,END 429E,Process Management,3,END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD,Elective Functional
+7. Yarıyıl,END 433E,Marketing Management,3,Yok,Elective Functional
+7. Yarıyıl,END 445E,Lean Production Systems,3,Yok,Elective Functional
+7. Yarıyıl,END 451E,Logistics Management,3,(END 331 MIN DD veya END 331E MIN DD) ve (END 252 MIN DD veya END 252E MIN DD),Elective Functional
+7. Yarıyıl,END 453E,Indus.4.0 & Digital Transform.,3,Yok,Elective Functional
+7. Yarıyıl,END 473E,Pricing and Revenue Management,3,(END 331 MIN DD veya END 331E MIN DD) ve (END 312 MIN DD veya END 312E MIN DD),Elective Functional
+7. Yarıyıl,END 475E,Feasibility Studies,3,END 312 MIN DD veya END 312E MIN DD,Elective Functional
+7. Yarıyıl,BLG 231E,Digital Circuits,3,Yok,Elective Analytic
+7. Yarıyıl,EHB 420E,Artificial Neural Networks,3,MAT 281 MIN DD veya MAT 281E MIN DD veya EEF 281 MIN DD veya EEF 281E MIN DD,Elective Analytic
+7. Yarıyıl,END 327E,Decision Theory,3,(END 252E MIN DD veya END 252 MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD veya VBA 252E MIN DD) ve (END 331 MIN DD veya END 331E MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD veya VBA 311E MIN DD),Elective Analytic
+7. Yarıyıl,END 357E,Management Information Systems,3,END 213E MIN DD ve (END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD),Elective Analytic
+7. Yarıyıl,END 369E,Game Theory,3,(END 252 MIN DD veya VBA 252E MIN DD) ve (END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD),Elective Analytic
+7. Yarıyıl,END 443E,Business Planning & Innovation,3,Yok,Elective Analytic
+7. Yarıyıl,END 447E,Network Models,3,END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD,Elective Analytic
+7. Yarıyıl,END 448E,Intr. to Stochastic Modell.,3,Yok,Elective Analytic
+7. Yarıyıl,END 457E,Heuristic Optimization,3,END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD,Elective Analytic
+7. Yarıyıl,END 471E,Marketing & CRM Analytics,3,END 311 MIN DD veya END 311E MIN DD veya VBA 311E MIN DD,Elective Analytic
+7. Yarıyıl,END 493E,Applied Statistics,3,END 311 MIN DD veya END 311E MIN DD veya VBA 311E MIN DD,Elective Analytic
+7. Yarıyıl,MAT 343E,Time Series Analysis,3,MAT 244 MIN DD veya MAT 244E MIN DD,Elective Analytic
+7. Yarıyıl,MAT 471E,Financial Mathematics,3,MAT 232 MIN DD veya MAT 232E MIN DD veya BIO 210E MIN DD veya BLG 210E MIN DD veya CEV 210 MIN DD veya CEV 210E MIN DD veya DEN 210E MIN DD veya EEE 210E MIN DD veya EEF 210 MIN DD veya EEF 210E MIN DD veya FIZ 210 MIN DD veya GEM 210E MIN DD veya GEO 220 MIN DD veya GEO 220E MIN DD veya INS 210 MIN DD veya INS 210E MIN DD veya KIM 271 MIN DD veya MAK 210E MIN DD veya MAT 201 MIN DD veya MAT 201E MIN DD veya MAT 210 MIN DD veya MAT 210E MIN DD,Elective Analytic
+8. Yarıyıl,END 314E,Service Systems,3,Yok,Elective Functional
+8. Yarıyıl,END 316E,Group Technology and Flexible Manufacturing Systems,3,Yok,Elective Functional
+8. Yarıyıl,END 364E,Work Psychology,3,Yok,Elective Functional
+8. Yarıyıl,END 374E,Competition Management,3,Yok,Elective Functional
+8. Yarıyıl,END 382E,Production Methods,3,END 112E MIN DD,Elective Functional
+8. Yarıyıl,END 414E,Maintenance Management,3,END 252 MIN DD veya END 252E MIN DD,Elective Functional
+8. Yarıyıl,END 426E,Enterprise Resources Planning,3,END 421 MIN DD veya END 421E MIN DD veya ISL 384 MIN DD veya ISL 384E MIN DD,Elective Functional
+8. Yarıyıl,END 432E,Facility Layout,3,Yok,Elective Functional
+8. Yarıyıl,END 434E,Intro.to Strategic Management,3,END 323 MIN DD veya END 431 MIN DD veya END 431E MIN DD,Elective Functional
+8. Yarıyıl,END 435E,Work Safety,3,Yok,Elective Functional
+8. Yarıyıl,END 452E,Purchasing Management,3,Yok,Elective Functional
+8. Yarıyıl,END 454E,Energy Markets & Optimization,3,END 331 MIN DD veya END 331E MIN DD veya ISL 323 MIN DD veya ISL 323E MIN DD,Elective Functional
+8. Yarıyıl,END 472E,Advanced Spreadsheet Modeling,3,Yok,Elective Functional
+8. Yarıyıl,END 486E,The New Era of Management,3,Yok,Elective Functional
+8. Yarıyıl,END 488E,ERP Processes and Installation,3,Yok,Elective Functional
+8. Yarıyıl,ISL 224E,Cost Accounting,3,Yok,Elective Functional
+8. Yarıyıl,ISL 452E,Financial Inst.&Portfolio Mng.,3,ISL 333E MIN DD veya ISL 333 MIN DD veya END 424 MIN DD veya END 424E MIN DD veya ECN 309E MIN DD,Elective Functional
+8. Yarıyıl,ISL 460E,E-Marketing,3,ISL 353E MIN DD veya ISL 353 MIN DD veya END 433 MIN DD veya END 433E MIN DD,Elective Functional
+8. Yarıyıl,KON 322E,Industrial Automated Systems,3,BLG 231 MIN DD veya BLG 231E MIN DD,Elective Functional
+8. Yarıyıl,KON 324E,Sensors&Transducers in Contr.,3,Yok,Elective Functional
+8. Yarıyıl,END 317E,Database Manag. & Big Data,3,BIL 102 MIN DD veya BIL 102CE MIN DD veya BIL 102E MIN DD veya BIL 102FE MIN DD veya BIL 104E MIN DD veya BIL 105E MIN DD veya BIL 106E MIN DD veya BIL 100E MIN DD veya BIL 110E MIN DD veya BIL 110 MIN DD veya MAT 115E MIN DD veya VBA 113E MIN DD,Elective Analytic
+8. Yarıyıl,END 318E,System Dynamics,3,END 211 MIN DD veya END 211E MIN DD veya END 215 MIN DD veya END 215E MIN DD,Elective Analytic
+8. Yarıyıl,END 336E,Product Development,3,Yok,Elective Analytic
+8. Yarıyıl,END 339E,Project Management,3,Yok,Elective Analytic
+8. Yarıyıl,END 424E,Financial Management,3,ISL 224 MIN DD veya ISL 224E MIN DD veya END 222 MIN DD veya END 222E MIN DD,Elective Analytic
+8. Yarıyıl,END 446E,Statistical Experimental Design,3,(END 252E MIN DD veya END 252 MIN DD veya VBA 252E MIN DD) ve (END 311 MIN DD veya END 311E MIN DD veya VBA 311E MIN DD),Elective Analytic
+8. Yarıyıl,END 458E,Nonlinear Optimization,3,END 311 MIN DD veya END 311E MIN DD veya ISL 323 MIN DD veya ISL 323E MIN DD veya VBA 211E MIN DD,Elective Analytic
+8. Yarıyıl,END 474E,Supply Chain Analytics,3,END 331 MIN DD veya END 331E MIN DD veya VBA 211E MIN DD,Elective Analytic
+8. Yarıyıl,END 476E,Machine Learning for Ind. Sys.,3,(END 311 MIN DD veya END 311E MIN DD veya ECN 211E MIN DD veya ECN 209E MIN DD) ve (MAT 210 MIN DD veya MAT 210E MIN DD veya END 210 MIN DD veya END 210E MIN DD veya ECN 207E MIN DD),Elective Analytic
+8. Yarıyıl,END 478E,Applied Optimization Models,3,Yok,Elective Analytic
+8. Yarıyıl,END 480E,Reliability Engineering,3,END 311 MIN DD veya END 311E MIN DD,Elective Analytic
+8. Yarıyıl,END 482E,Supply Chain Management,3,END 421 MIN DD veya END 421E MIN DD,Elective Analytic
