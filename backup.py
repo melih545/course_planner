@@ -419,12 +419,16 @@ def main():
                 st.session_state.completed_courses.extend(completed_courses)
             if "path_data" in st.session_state:
                 for term, lectures in st.session_state.path.items():
-                    st.header(f"The planned schedule for {term}")
-                    visualize_schedule(
-                        st.session_state.path_data,
-                        lectures,
-                        title=f"Selected Schedule for {term.replace('_', ' ')}",
-                    )
+                    if lectures:
+                        visualize_schedule(
+                            st.session_state.path_data,
+                            lectures,
+                            title=f"Selected Schedule for {term.replace('_', ' ')}",
+                        )
+                    else:
+                        st.write(
+                            f"No courses were selected for {term.replace('_', ' ')}"
+                        )
             if st.session_state.updated:
                 st.session_state.updated = False
                 completed_credits = necessary[
@@ -676,7 +680,7 @@ def main():
                     for term in SEMESTER_LST
                 }
 
-                # Constraint: If a course is taken in a semester, that semester must be marked as used
+                # Constraint: If a course is taken in a semester, that semester must be marked as used nad limit lectures to 10
                 for year in years:
                     for term in SEMESTER_LST:
                         model.addCons(
@@ -700,7 +704,7 @@ def main():
                                 )
                                 in course_vars
                             )
-                            <= semester_vars[(year, term)] * 1000,
+                            <= semester_vars[(year, term)] * 10,
                             name=f"LinkCoursesToSemester_{year}_{term}",
                         )
 
