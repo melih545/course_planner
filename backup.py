@@ -1,10 +1,7 @@
 import re
-import time
-import numpy as np
 import pandas as pd
 import streamlit as st
 from pyscipopt import Model
-import random
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
