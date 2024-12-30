@@ -336,12 +336,8 @@ def process_uploaded_files(uploaded_file, necessary_lectures):
 def main():
     st.title("Interactive Course Planner with Iterative Scheduling")
 
-    uploaded_file = st.file_uploader(
-        "Upload the CSV file includes all lectures", type=["csv"], key="1"
-    )
-    necessary_lectures = st.file_uploader(
-        "Upload the CSV file includes with the required classes", type=["csv"], key="2"
-    )
+    uploaded_file = "all_lectures.csv"
+    necessary_lectures = "course_plans.csv"
 
     if "remaining_data" not in st.session_state:
         st.session_state.remaining_data = None
