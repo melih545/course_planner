@@ -421,7 +421,7 @@ def main():
             st.session_state.calculated = True
 
         if st.session_state.calculated:
-            data = data[~data["Code"].isin(st.session_state.completed_courses)]
+            data = st.session_state.remaining_data[~st.session_state.remaining_data["Code"].isin(st.session_state.completed_courses)]
             st.write(st.session_state.remaining_data)
             if not st.session_state.completed_courses:
                 st.session_state.completed_courses.extend(completed_courses)
