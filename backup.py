@@ -31,7 +31,7 @@ def visualize_schedule(data, selected_courses, title="Schedule"):
                 if (
                     pd.isnull(row["Times"])
                     or "/" not in row["Times"]
-                    or "490" not in row["Code"]
+                    or "490" in row["Code"]
                 ):
                     continue
                 start_time, end_time = row["Times"].split("/")
@@ -53,7 +53,6 @@ def visualize_schedule(data, selected_courses, title="Schedule"):
                     wrap=True,
                 )
             except Exception as e:
-                st.warning(f"Skipping invalid row: {row['Code']} (Error: {e})")
                 continue
 
     ax.set_xlim(-0.5, 4.5)
