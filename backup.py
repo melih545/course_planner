@@ -53,6 +53,7 @@ def visualize_schedule(data, selected_courses, title="Schedule"):
                     wrap=True,
                 )
             except Exception as e:
+                st.warning(f"Skipping invalid row: {row['Code']} (Error: {e})")
                 continue
 
     ax.set_xlim(-0.5, 4.5)
@@ -351,7 +352,7 @@ def main():
             [
                 f"{code} - {name}"
                 for code, name in zip(
-                    necessary["Course Code"].unique(), necessary["Course Name"].unique()
+                    necessary["Course Code"], necessary["Course Name"]
                 )
             ],
             key=lambda x: x.split(" - ")[0],
@@ -421,7 +422,7 @@ def main():
             st.session_state.calculated = True
 
         if st.session_state.calculated:
-            data = st.session_state.remaining_data[~st.session_state.remaining_data["Code"].isin(st.session_state.completed_courses)]
+            data = st.session_state.remaining_data
             st.write(st.session_state.remaining_data)
             if not st.session_state.completed_courses:
                 st.session_state.completed_courses.extend(completed_courses)
