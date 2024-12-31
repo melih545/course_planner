@@ -351,7 +351,7 @@ def main():
             [
                 f"{code} - {name}"
                 for code, name in zip(
-                    necessary["Course Code"], necessary["Course Name"]
+                    necessary["Course Code"].unique(), necessary["Course Name"].unique()
                 )
             ],
             key=lambda x: x.split(" - ")[0],
