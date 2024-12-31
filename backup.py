@@ -31,7 +31,7 @@ def visualize_schedule(data, selected_courses, title="Schedule"):
                 if (
                     pd.isnull(row["Times"])
                     or "/" not in row["Times"]
-                    and "490" not in row["Code"]
+                    or "490" not in row["Code"]
                 ):
                     continue
                 start_time, end_time = row["Times"].split("/")
